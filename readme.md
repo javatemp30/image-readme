@@ -1,6 +1,20 @@
 # DevOpsConnect Monorepo
 
 This repository contains the full-stack DevOpsConnect application, organized as a monorepo with separate folders for backend, frontend, and infrastructure services.
+## Architecture
+![Architecture](ARCHITECTURE.jpg)
+
+## EC2 Instances
+![EC2](EC2%20INSTANCES.png)
+
+## RDS
+![RDS](RDS.png)
+
+## Request Checking
+![Request](REQUEST-CHECKING.png)
+
+## VPC Setup
+![VPC](VPC%20SETUP.png)
 
 ## Project Structure
 
