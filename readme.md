@@ -1,3 +1,8 @@
+# 🚀 DevOpsConnect Monorepo
+
+This repository contains the full-stack **DevOpsConnect** application, organized as a monorepo with separate folders for backend, frontend, and infrastructure services.
+
+---
 ## 🧠 System Architecture
 
 <p align="center">
