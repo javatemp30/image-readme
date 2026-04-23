@@ -5,6 +5,9 @@ This repository contains the full-stack DevOpsConnect application, organized as 
 ## System Architecture
 <img src="ARCHITECTURE.jpg" width="500"/>
 
+## VPC Setup
+![VPC](VPC%20SETUP.png)
+
 ## EC2 Instances
 ![EC2](EC2%20INSTANCES.png)
 
@@ -14,8 +17,6 @@ This repository contains the full-stack DevOpsConnect application, organized as 
 ## Request Checking
 ![Request](REQUEST-CHECKING.png)
 
-## VPC Setup
-![VPC](VPC%20SETUP.png)
 
 ## Project Structure
 
@@ -74,4 +75,3 @@ Each folder contains a `.env.example` file. Copy it to `.env` and fill in your v
 
 ---
 
-For more details, see the `README.md` in each folder.
